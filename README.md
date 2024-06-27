@@ -1,7 +1,7 @@
 ᴇᴠɪʟ ᴍᴅ ɪs ᴀ ᴄᴏᴏʟ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ  ᴍᴀᴅᴇ ʙʏ ᴅᴀʀᴋ ᴇᴠɪʟ ᴛᴏ ᴅᴏ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴘᴏssɪʙʟᴇ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ.
 
 <div align="center" class= "main"> 
-  <img src="https://telegra.ph/file/1271d54767e6d0c21855a.jpg" width="300" height="300"/>
+  <img src="https://telegra.ph/file/1271d54767e6d0c21855a.jpg" width="400" height="400"/>
   <h1>𝙀𝙑𝙄𝙇-𝙈𝘿 </h1>
 
 ***
