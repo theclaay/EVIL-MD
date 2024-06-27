@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +EVIL-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DARK+EVIL" alt="Typing SVG" /></a>
   </p>
 
-  ***
+***
 
 <a href='https://github.com/Mrunknown54/EVIL-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
   
@@ -44,6 +44,6 @@
 
 ## Author:*_[ᴅᴀʀᴋ ᴇᴠɪʟ](https://github.com/Mrunknown54)_*
 <a href="https://github.com/Mrunknown54"><img src="https://telegra.ph/file/0ef696e8a431e81973eda.jpg" width="125" height="100"/></a>
--  𝑺𝒕𝒂𝒓 ⭐ 𝒓𝒆𝒑𝒐 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒉𝒊𝒔 𝒃𝒐𝒕
+- 𝑺𝒕𝒂𝒓 ⭐ 𝒓𝒆𝒑𝒐 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒉𝒊𝒔 𝒃𝒐𝒕
 
 
