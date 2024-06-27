@@ -15,6 +15,10 @@
   
 ***
 
+<a href="https://evil-md-by-rehman-4d5d913e2a5e.herokuapp.com"><img src="https://img.shields.io/badge/ᴘᴀɪʀ%20sᴇssɪᴏɴ%20ᴄᴏᴅᴇ-orange" alt="Pair session cide" width="200"></a>
+
+***
+
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Mrunknown54/EVIL-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 
