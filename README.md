@@ -31,14 +31,13 @@
 ***
 
 - 𝑺𝒕𝒂𝒓 ⭐ 𝒓𝒆𝒑𝒐 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒉𝒊𝒔 𝒃𝒐𝒕.
-- 𝑰𝒇 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎, 𝒕𝒉𝒆𝒏 <a href="https://wa.me+923319709781">
+- 𝑰𝒇 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎, 𝒕𝒉𝒆𝒏
+- <a href="https://wa.me+923319709781">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   </a>&nbsp;&nbsp;
-   <a
+   
 
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    
 
 
 
