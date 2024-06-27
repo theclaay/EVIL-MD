@@ -19,8 +19,7 @@
 
 ***
 
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Mrunknown54/EVIL-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Mrunknown54/EVIL-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 
 
  ## Join my channel for updates and get free cc And hacking tools
@@ -46,9 +45,8 @@
     
 
 
-
 ***
 
-## Author : [DARK EVIL](https://github.com/Mrunknown54)
+## Author : <a href="https://github.com/Mrunknown54"><img src="https://telegra.ph/file/034990b2d62595148af2e.jpg" width="125" height="125"/></a>
 
 
