@@ -42,11 +42,11 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-    
 
+***    
 
-***
+## Author :
 
-## Author : <a href="https://github.com/Mrunknown54"><img src="https://telegra.ph/file/2a6057b5998a2c1d95bb7.jpg" width="125" height="125"/></a>
+<a href="https://github.com/Mrunknown54"><img src="https://telegra.ph/file/0ef696e8a431e81973eda.jpg" width="125" height="100"/></a>
 
 
