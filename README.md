@@ -9,11 +9,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +EVIL-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DARK+EVIL" alt="Typing SVG" /></a>
   </p>
 
-Get Session ID (By pairing code)
-   > 
-     <a href='https://fully-20508e8a7163.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
+  ***
 
+<a href='https://github.com/Mrunknown54/EVIL-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
   
+***
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Mrunknown54/EVIL-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
@@ -34,6 +34,6 @@ Get Session ID (By pairing code)
 
 ***
 
-# Author : [DARK EVIL](https://github.com/Mrunknown54)
+## Author : [DARK EVIL](https://github.com/Mrunknown54)
 
 
