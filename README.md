@@ -42,7 +42,7 @@
 
 ***    
 
-## Author :[DARK EVIL](https://github.com/Mrunknown54)
+## Author :*_[DARK EVIL](https://github.com/Mrunknown54)_*
 <a href="https://github.com/Mrunknown54"><img src="https://telegra.ph/file/0ef696e8a431e81973eda.jpg" width="125" height="100"/></a>
 - 𝑺𝒕𝒂𝒓 ⭐ 𝒓𝒆𝒑𝒐 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒉𝒊𝒔 𝒃𝒐𝒕.
 
