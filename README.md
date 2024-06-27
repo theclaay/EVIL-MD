@@ -33,7 +33,7 @@
 - 𝑺𝒕𝒂𝒓 ⭐ 𝒓𝒆𝒑𝒐 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒉𝒊𝒔 𝒃𝒐𝒕.
 - 𝑰𝒇 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎, 𝒕𝒉𝒆𝒏
 
-<a href="https://wa.me+923319709781" target="_blank">
+<a href="https://wa.me/+923319709781" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
