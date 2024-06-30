@@ -38,11 +38,11 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "";
+global.scan = "https://evil-pair-8684557710f6.herokuapp.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "https://evil-pair-8684557710f6.herokuapp.com/"
+  ""
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
