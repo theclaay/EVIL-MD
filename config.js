@@ -42,7 +42,7 @@ global.scan = "";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "https://evil-pair-8684557710f6.herokuapp.com/"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
