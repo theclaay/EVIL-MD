@@ -155,7 +155,7 @@ async(message, match) => {
  try{
 
    message.react("🔍")
-         if (!match) return message.reply(`Give me a user name like ${prefix}github Rahmantech1`)
+         if (!match) return message.reply(`Give me a user name like ${prefix}github Mrunknown54`)
 
          const { data } = await axios(`https://api.github.com/users/${match}`)
    if(!data) return await message.send(`*_Didn't get any results, Provide valid user name!_*`)
@@ -217,7 +217,7 @@ smd({
             let {data} = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${match}&plot=full`);
             if(!data || data.cod == '404') return await message.reply(`*_Please provide valid country name!_*`)
 
-            let imdbt = "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n" + " ``` RAHMAN-IMDB-SEARCH```\n" + "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
+            let imdbt = "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n" + " ``` EVIL-MD-IMDB-SEARCH```\n" + "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
             imdbt += "🎬Title      : " + data.Title + "\n";
             imdbt += "📅Year       : " + data.Year + "\n";
             imdbt += "⭐Rated      : " + data.Rated + "\n";
@@ -365,7 +365,7 @@ smd({
         },
         async(message, text) => {
           try{
-            if (!text) return message.reply(`*_Heyy please, give me a query_*\n*_Example : ${prefix}google TalkDrove._*`);
+            if (!text) return message.reply(`*_Heyy please, give me a query_*\n*_Example : ${prefix}google Evil md._*`);
             let google = require('google-it');
             google({ 'query': text}).then(res => {
                 let msg= `Google Search From : ${text} \n\n`;
@@ -658,9 +658,9 @@ smd({
         filename: __filename,
     },
     async(message, text) => {
- if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 923135673xx')
+ if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 923319709xx')
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return message.reply(`*You did not add x*\nExample: iswa 923192173xx  \n ${Config.caption}`)
+        if (!inputnumber.includes('x')) return message.reply(`*You did not add x*\nExample: iswa 923319709xx  \n ${Config.caption}`)
         message.reply(`*Searching for WhatsApp account in given range...* \n ${Config.caption}`)
 
         function countInstances(string, word) {  return string.split(word).length - 1; }
@@ -711,9 +711,9 @@ smd({
         filename: __filename,
     },
     async(message, text) => {
-if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 923135673xx')
+if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 923319709xx')
 const inputNumber = text.split(" ")[0]
-if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 9231921736xx  \n ${Config.caption}`)
+if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 923319709xx  \n ${Config.caption}`)
 message.reply(`*Searching for WhatsApp account in the given range...*\n${Config.caption}`);
 function countInstances(string, word) { return string.split(word).length - 1; }
 const number0 = inputNumber.split('x')[0];
