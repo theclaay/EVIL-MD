@@ -122,7 +122,7 @@ smd(
   },
   async (message, text) => {
     try {
-      message.send(`An Estimated 120+ Users On BYTE-MD`.trim());
+      message.send(`An Estimated 120+ Users On EVIL-MD`.trim());
     } catch (e) {
       console.error("Error:", e);
       message.reply(`*ERROR!* `);
