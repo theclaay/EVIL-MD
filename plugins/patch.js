@@ -379,7 +379,7 @@ smd(
         _0x22514a.date +
         "\n*♩ɴᴏᴡ ᴛɪᴍᴇ :* " +
         _0x22514a.time +
-        "\n\n♩Fᴏᴜɴᴅᴇʀ- Hamza\n♩Oᴡɴᴇʀ - " +
+        "\n\n♩Fᴏᴜɴᴅᴇʀ- Dark Evil\n♩Oᴡɴᴇʀ - " +
         Config.ownername +
         "\n♩Nᴜᴍ - " +
         owner.split(",")[0] +
@@ -609,7 +609,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/034990b2d62595148af2e.jpg",
+            "https://telegra.ph/file/1271d54767e6d0c21855a.jpg",
             {
               responseType: "arraybuffer",
             }
