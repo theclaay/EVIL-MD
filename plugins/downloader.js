@@ -917,7 +917,7 @@ smd(
          );
        }
        let video = await astroJson(
-         "https://api.maher-zubair.tech/download/tiktok?url=" + query
+         "https://api-smd.onrender.com/api/fbdown?url=" + query
        );
        if (!video || !video.status) {
          return await message.reply("*Invalid Video URL!*");
@@ -963,7 +963,7 @@ smd(
          );
        }
        let video = await astroJson(
-         "https://vihangayt.me/download/tiktok?url=" + query
+         "https://api-smd.onrender.com/api/fbdown?url=" + query
        );
        if (!video || !video.status) {
          return await message.reply("*Invalid Video URL!*");
@@ -1410,7 +1410,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://aemt.me/download/tiktokdl?url=";
+       const apiUrl = "https://api.maher-zubair.tech/download/tiktok?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1452,7 +1452,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://aemt.me/download/tiktokdl?url=${encodeURIComponent(
+       const apiUrl = `https://api-smd.onrender.com/api/ttdl2?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
