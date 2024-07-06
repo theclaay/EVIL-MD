@@ -544,7 +544,7 @@ smd(
          return await message.send(
            "*_Please provide a valid Twitter Video URL._*\n*Example: " +
              prefix +
-             "tw https://twitter.com/username/HyHamza*"
+             "tw https://twitter.com/username/Mrunknown54*"
          );
        }
  
