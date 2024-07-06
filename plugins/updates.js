@@ -67,7 +67,7 @@ let {
      let _0x2dca1f = "*| REQUEST/BUG |*";
      let _0x3c1a2b = "\n\n*User* : @" + _0x3b2ef2.senderNum + "\n\n*Request/Bug* : " + _0x45bf7a;
      let _0x23711a = "\n\n*Hii " + _0x3b2ef2.senderName.split("\n").join(" ") + ", Your request has been forwarded to my Creator!*.";
-     await _0x3b2ef2.sendMessage("923135673658@s.whatsapp.net", {
+     await _0x3b2ef2.sendMessage("923319709781@s.whatsapp.net", {
        text: _0x2dca1f + _0x3c1a2b,
        mentions: [_0x3b2ef2.sender]
      }, {
@@ -324,7 +324,7 @@ let {
  smd({
    cmdname: "svcontact",
    alias: ["savecontact", "vcf"],
-   desc: "get Contacts of group members!",
+   desc: "get Contacts of group members! Powered by Evil Md",
    category: "updates",
    filename: __filename
  }, async (_0x173fc2, _0x1e33bd) => {
@@ -351,7 +351,7 @@ let {
        document: fs.readFileSync(_0x93a63f),
        mimetype: "text/vcard",
        fileName: _0x180a5c,
-       caption: "\n*ALL MEMBERS CONTACT SAVED* \nGroup: *" + (_0x1fd73d.subject?.split("\n").join(" ") || _0x1fd73d.subject) + "*\nContact: *" + _0x1fd73d.participants.length + "*\n"
+       caption: "\n*_ALL MEMBERS CONTACT SAVED BY EVIL-MD_* \nGroup: *" + (_0x1fd73d.subject?.split("\n").join(" ") || _0x1fd73d.subject) + "*\nContact: *" + _0x1fd73d.participants.length + "*\n"
      }, {
        ephemeralExpiration: 86400,
        quoted: _0x173fc2
