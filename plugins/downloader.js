@@ -917,7 +917,7 @@ smd(
          );
        }
        let video = await astroJson(
-         "https://api-smd.onrender.com/api/fbdown?url=" + query
+         "https://api.maher-zubair.tech/download/tiktok?url=" + query
        );
        if (!video || !video.status) {
          return await message.reply("*Invalid Video URL!*");
@@ -963,7 +963,7 @@ smd(
          );
        }
        let video = await astroJson(
-         "https://api-smd.onrender.com/api/fbdown?url=" + query
+         "https://vihangayt.me/download/tiktok?url=" + query
        );
        if (!video || !video.status) {
          return await message.reply("*Invalid Video URL!*");
