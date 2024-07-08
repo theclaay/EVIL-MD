@@ -1399,7 +1399,7 @@ smd(
  
        if (!url) {
          return await message.reply(
-           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`
+           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dark-evil/video/7150544062221749531_*`
          );
        }
  
@@ -1411,7 +1411,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://aemt.me/download/tiktokdl?url=";
+       const apiUrl = "https://api-smd.onrender.com/api/ttdl2?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1442,7 +1442,7 @@ smd(
      try {
        if (!url) {
          return await message.reply(
-           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`
+           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dark-evil/video/7150544062221749531_*`
          );
        }
  
@@ -1453,7 +1453,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://aemt.me/download/tiktokdl?url=${encodeURIComponent(
+       const apiUrl = `https://api.maher-zubair.tech/download/tiktok?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
@@ -1509,7 +1509,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://aemt.me/download/tiktokdl?url=";
+       const apiUrl = "https://api-smd.onrender.com/api/ttdl2?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1552,7 +1552,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://aemt.me/download/tiktokdl?url=${encodeURIComponent(
+       const apiUrl = `https://api.maher-zubair.tech/download/tiktok?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
