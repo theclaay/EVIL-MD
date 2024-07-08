@@ -1497,7 +1497,7 @@ smd(
  
        if (!url) {
          return await message.reply(
-           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`
+           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dar-evil/video/7150544062221749531_*`
          );
        }
  
@@ -1509,7 +1509,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://api-smd.onrender.com/api/ttdl2?url=";
+       const apiUrl = "https://api-smd.onrender.com/api/ttdl2";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1541,7 +1541,7 @@ smd(
      try {
        if (!url) {
          return await message.reply(
-           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`
+           `*Uhh Please, Provide me tiktok Video Url*\n*_Ex ${prefix}tiktok https://www.tiktok.com/@dark-evil/video/7150544062221749531_*`
          );
        }
  
