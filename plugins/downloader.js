@@ -1411,7 +1411,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://api-smd.onrender.com/api/ttdl2?url=";
+       const apiUrl = "https://widipe.com/download/tiktokdl?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1453,7 +1453,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://api.maher-zubair.tech/download/tiktok?url=${encodeURIComponent(
+       const apiUrl = `https://widipe.com/download/tikdl?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
@@ -1509,7 +1509,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://api-smd.onrender.com/api/ttdl2";
+       const apiUrl = "https://widipe.com/download/tiktokdl?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1552,7 +1552,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://api.maher-zubair.tech/download/tiktok?url=${encodeURIComponent(
+       const apiUrl = `https://widipe.com/download/tikdl?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
@@ -1727,7 +1727,7 @@ smd(
      }
      let _0x3b2ca6 = await yts(_0x4ec99f);
      let _0x4123ae = _0x3b2ca6.all[0];
-     let _0x5883a9 = "\t *_ᴇᴠɪʟ-ᴍᴅ || sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ_*   \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Rᴇᴘʟʏ 1 ғᴏʀ Vɪᴅᴇᴏ_ Oʀ _1  Dᴏᴄᴜᴍᴇɴᴛ_\n_Rᴇᴘʟʏ 2 ғᴏʀ Aᴜᴅɪᴏ_ Oʀ _2 Dᴏᴄᴜᴍᴇɴᴛ_";
+     let _0x5883a9 = "\t 『 *ᴇᴠɪʟ-ᴍᴅ || sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ* 』  \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Rᴇᴘʟʏ 1 ғᴏʀ Vɪᴅᴇᴏ_ Oʀ _1  Dᴏᴄᴜᴍᴇɴᴛ_\n_Rᴇᴘʟʏ 2 ғᴏʀ Aᴜᴅɪᴏ_ Oʀ _2 Dᴏᴄᴜᴍᴇɴᴛ_";
      let _0x3885cc = await smdBuffer(_0x4123ae.thumbnail);
      var _0x44a363 = {
        ...(await _0x2c2023.bot.contextInfo(Config.botname, "ʏᴏᴜᴛᴜʙᴇ ꜱᴏɴɢ", _0x3885cc))
@@ -1755,7 +1755,7 @@ smd({
      }
      let _0x3b2ca6 = await yts(_0x4ec99f);
      let _0x4123ae = _0x3b2ca6.all[0];
-     let _0x5883a9 = "\t *_ᴇᴠɪʟ-ᴍᴅ || sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ_*   \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Rᴇᴘʟʏ 1 ғᴏʀ Vɪᴅᴇᴏ_ Oʀ _1  Dᴏᴄᴜᴍᴇɴᴛ_\n_Rᴇᴘʟʏ 2 ғᴏʀ Aᴜᴅɪᴏ_ Oʀ _2 Dᴏᴄᴜᴍᴇɴᴛ_";
+     let _0x5883a9 = "\t 『 *ᴇᴠɪʟ-ᴍᴅ || sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ* 』  \n\n*Title :* " + _0x4123ae.title + "\nUrl : " + _0x4123ae.url + "\n*Description :* " + _0x4123ae.timestamp + "\n*Views :* " + _0x4123ae.views + "\n*Uploaded :* " + _0x4123ae.ago + "\n*Author :* " + _0x4123ae.author.name + "\n\n\n_Rᴇᴘʟʏ 1 ғᴏʀ Vɪᴅᴇᴏ_ Oʀ _1  Dᴏᴄᴜᴍᴇɴᴛ_\n_Rᴇᴘʟʏ 2 ғᴏʀ Aᴜᴅɪᴏ_ Oʀ _2 Dᴏᴄᴜᴍᴇɴᴛ_";
      let _0x3885cc = await smdBuffer(_0x4123ae.thumbnail);
      var _0x44a363 = {
        ...(await _0x2c2023.bot.contextInfo(Config.botname, "ʏᴏᴜᴛᴜʙᴇ ꜱᴏɴɢ", _0x3885cc))
@@ -1782,7 +1782,7 @@ smd({
        return await _0x1c8285.reply("*_Give Me Search Query!_*");
      }
      let _0x2878ec = await yts(_0xca939c);
-     let _0x4186e4 = "*_ᴇᴠɪʟ-ᴍᴅ || ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ_* \n*_______________________________* \n\n_RRᴇᴘʟʏ Aɴʏ Nᴜᴍʙᴇʀ Tᴏ Dᴏᴡɴʟᴏᴀᴅ._\n  _Fᴏʀ Aᴜᴅɪᴏ: 1 ᴍᴘ3._\n  _Fᴏʀ Vɪᴅᴇᴏ: 1 ᴠɪᴅᴇᴏ._\n  __Fᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ: 1 Dᴏᴄᴜᴍᴇɴᴛ_\n\n_Rᴇsᴜʟᴛs Fᴏʀ : " + _0xca939c + "_ \n\n";
+     let _0x4186e4 = "*_ᴇᴠɪʟ-ᴍᴅ ❀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ_* \n*_______________________________* \n\n_RRᴇᴘʟʏ Aɴʏ Nᴜᴍʙᴇʀ Tᴏ Dᴏᴡɴʟᴏᴀᴅ._\n  _Fᴏʀ Aᴜᴅɪᴏ: 1 ᴍᴘ3._\n  _Fᴏʀ Vɪᴅᴇᴏ: 1 ᴠɪᴅᴇᴏ._\n  __Fᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ: 1 Dᴏᴄᴜᴍᴇɴᴛ_\n\n_Rᴇsᴜʟᴛs Fᴏʀ : " + _0xca939c + "_ \n\n";
      let _0x463366 = 1;
      for (let _0x308e22 of _0x2878ec.all) {
        _0x4186e4 += " \n*" + _0x463366++ + " : " + _0x308e22.title + (_0x308e22.timestamp ? "(" + _0x308e22.timestamp + ")" : "") + "*\n*Url : " + _0x308e22.url + "*";
