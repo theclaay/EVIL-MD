@@ -702,7 +702,7 @@ smd(
        return await m.send("*_Please provide an Instagram URL!_*");
      }
  
-     const apiUrl = `https://api.maher-zubair.tech/download/instagram?url=${encodeURIComponent(url)}`;
+     const apiUrl = `https://api-smd.onrender.com/api/igdl?url=${encodeURIComponent(url)}`;
      const response = await fetch(apiUrl);
  
      if (!response.ok) {
@@ -1411,7 +1411,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://widipe.com/download/tiktokdl?url=";
+       const apiUrl = "https://aemt.me/download/tiktokdl?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1453,7 +1453,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://widipe.com/download/tikdl?url=${encodeURIComponent(
+       const apiUrl = `https://wasi.dl.api/download/tiktokdl?url=${encodeURIComponent(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
@@ -1509,7 +1509,7 @@ smd(
          );
        }
  
-       const apiUrl = "https://widipe.com/download/tiktokdl?url=";
+       const apiUrl = "https://aemt.me/download/tiktokdl?url=";
        const response = await fetch(`${apiUrl}?url=${tiktokUrl}`);
        const data = await response.json();
  
@@ -1552,7 +1552,7 @@ smd(
          );
        }
  
-       const apiUrl = `https://widipe.com/download/tikdl?url=${encodeURIComponent(
+       const apiUrl = `https://wasi.dl.api/download/tiktokdl?url=$(
          tiktokUrl
        )}`;
        const response = await fetchJson(apiUrl);
